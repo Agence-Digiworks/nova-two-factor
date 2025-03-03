@@ -17,7 +17,8 @@
                         </HelpText>
                     </div>
 
-                    <DefaultButton class="flex justify-center" type="submit">
+                    <DefaultButton 
+                    class="tw-inline-flex tw-items-center tw-bg-primary-500 tw-border tw-border-transparent tw-text-white tw-text-sm tw-font-semibold tw-rounded tw-px-4 tw-py-2 tw-transition tw-duration-150 tw-ease-in-out hover:tw-bg-primary-600 disabled:tw-opacity-50 disabled:tw-cursor-not-allowed" type="submit">
                         <span>
                             {{ __('Clear') }}
                         </span>
