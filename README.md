@@ -11,20 +11,20 @@
 Laravel nova in-dashboard 2FA security feature.
 
 
-## Install this for in laravel project 
+## Install this fork in a laravel project 
 in composer.json add to require and repositories sections
 
 ```
-    "require": {
-        "visanduma/nova-two-factor": "dev-main"
-    }
+"require": {
+    "visanduma/nova-two-factor": "dev-main"
+}
 
-    "repositories": {
-        "nova-two-factor" : {
-            "type": "vcs",
-            "url": "https://github.com/Agence-Digiworks/nova-two-factor.git"
-        }
-    }    
+"repositories": {
+    "nova-two-factor" : {
+        "type": "vcs",
+        "url": "https://github.com/Agence-Digiworks/nova-two-factor.git"
+    }
+}    
 ```
 
 ## Versions 
