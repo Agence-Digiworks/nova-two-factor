@@ -22,17 +22,17 @@
     "Disable": "Désactiver",
     "Update Settings": "Mettre à jour les paramètres",
     "Two factor authentication (2FA) strengthens access security by requiring two methods (also referred to as factors) to verify your identity. Two factor authentication protects against phishing, social engineering and password brute force attacks and secures your logins from attackers exploiting weak or stolen credentials.": 
-    "L'authentification à deux facteurs (A2F) renforce la sécurité d'accès en exigeant deux méthodes (appelées facteurs) pour vérifier votre identité. Elle protège contre l'hameçonnage, l'ingénierie sociale et les attaques par force brute de mots de passe, et sécurise vos connexions contre les attaquants exploitant des informations d'identification faibles ou volées.",
-    "Recovery codes": "Codes de récupération",
+    "L'authentification à deux facteurs (A2F) renforce la sécurité d'accès en exigeant deux méthodes (appelées facteurs) pour vérifier votre identité. Elle protège contre l'hameçonnage, l'ingénierie sociale et les attaques par force brute, tout en sécurisant vos connexions contre les attaquants exploitant des informations d'identification faibles ou volées",
+    "Recovery codes": "Code de récupération",
     "Recovery code are used to access your account in the event you cannot receive two-factor authentication codes.": 
-    "Les codes de récupération sont utilisés pour accéder à votre compte si vous ne pouvez pas recevoir les codes d'authentification à deux facteurs.",
+    "Le code de récupération est utilisé pour accéder à votre compte si vous ne pouvez pas recevoir les codes d'authentification à deux facteurs.",
     "Step 01": "Étape 01",
     "Download, print or copy your recovery code before continuing two-factor authentication setup.": 
     "Téléchargez, imprimez ou copiez votre code de récupération avant de poursuivre la configuration de l'authentification à deux facteurs.",
     "Download": "Télécharger",
     "Step 02": "Étape 02",
     "Scan this QR code using Google authenticator to setup & enter OTP to activate 2FA": 
-    "Scannez ce code QR avec Google Authenticator pour configurer et entrer un OTP afin d'activer l'A2F",
+    "Scannez ce code QR avec Google Authenticator pour configurer l'A2F, puis saisissez un OTP pour l'activer.",
     "Activate 2FA": "Activer l'A2F",
     "Enter OTP here": "Entrez l'OTP ici",
     "Clear settings": "Réinitialiser les paramètres",
