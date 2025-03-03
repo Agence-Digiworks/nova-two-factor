@@ -12,7 +12,7 @@ Laravel nova in-dashboard 2FA security feature.
 
 
 ## Install this fork in a laravel project 
-In composer.json add to require and repositories sections
+In composer.json, add the following to the require and repositories sections.
 
 ```
 "require": {
@@ -27,7 +27,7 @@ In composer.json add to require and repositories sections
 }    
 ```
 
-Then run 
+Then, run 
 ```
 composer update
 ```
