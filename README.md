@@ -222,5 +222,14 @@ public function tools()
 
 ```
 
-5. Run `` php artisan migrate ``
-6. You are done !
+5. Add the route to the boot() function in the Nova Service Provider if you have a customized menu
+
+``` 
+MenuSection::make('Authentification', [
+    MenuItem::externalLink('Authentification à deux facteurs', '/admin/nova-two-factor')
+])->icon('lock-closed')
+```
+
+6. Run `` php artisan migrate ``
+
+7. You are done !
